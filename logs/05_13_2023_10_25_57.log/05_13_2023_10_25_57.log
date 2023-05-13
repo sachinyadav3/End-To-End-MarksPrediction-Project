@@ -1,0 +1,4 @@
+[ 2023-05-13 10:26:00,390 ] 113 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-13 10:26:00,390 ] 113 werkzeug - INFO -  * Debugger PIN: 2http://0.0.0.0:5000/05-278-375
+[ 2023-05-13 10:26:00,587 ] 113 werkzeug - INFO -  * Running on  (Press CTRL+C to quit)
+[ 2023-05-13 10:28:53,265 ] 113 werkzeug - INFO -  * Detected change in 'F:\\MLProjects\\Proj1\\app.py', reloading
